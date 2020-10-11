@@ -50,8 +50,3 @@ git commit -m 'Initial import'
 ```
 
 After watching each video, commit any changes. This will allow you to easily track and compare you progress. As well as compare the tests you wrote, with the final version at the end.
-
-## Support
-Of course if you run into any issues don’t hesitate to email me at jmac@confidentlaravel.com.
-
-
